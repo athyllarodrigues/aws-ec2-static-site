@@ -3,13 +3,14 @@ Documentation for deploying a static website on AWS EC2.
 
 # DevOps Project – Static Website Deployment on AWS EC2
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-222222?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Certbot](https://img.shields.io/badge/Certbot-1F8EE3?style=for-the-badge&logo=certbot&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot-183A61?style=for-the-badge&logo=let's-encrypt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
+
 
 ---
 
@@ -165,15 +166,6 @@ The site is accessible at [https://devathylla.site](https://devathylla.site).
 GitHub: [athyllarodrig](https://github.com/athyllarodrig)  
 Website: [https://devathylla.site](https://devathylla.site)  
 
-## 🛠 Technologies & Tools
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-222222?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Certbot](https://img.shields.io/badge/Certbot-183A61?style=for-the-badge&logo=let's-encrypt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
 
 
 ---
