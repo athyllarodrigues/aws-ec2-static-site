@@ -67,8 +67,6 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
 4.  Em **Alert threshold**, adicione alertas para 80% ($8) e 100% ($10) do orçamento, enviando para seu e-mail.
 5.  Clique em **Create budget**.
 
-![Navegando para Budgets no Billing Dashboard.](/images/pasted_file_xKrjEL_image.png)
-
 ![Tela de criação de Budget na AWS.](/images/pasted_file_1op0w5_image.png)
 
 6.  No Billing Dashboard, ative o **Cost Explorer** para visualizar os custos.
