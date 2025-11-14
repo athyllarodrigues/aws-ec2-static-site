@@ -67,9 +67,9 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
 4.  Em **Alert threshold**, adicione alertas para 80% ($8) e 100% ($10) do orçamento, enviando para seu e-mail.
 5.  Clique em **Create budget**.
 
-![Navegando para Budgets no Billing Dashboard.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459799_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9wYXN0ZWRfZmlsZV94S3JqRUxfaW1hZ2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk3OTlfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5d1lYTjBaV1JmWm1sc1pWOTRTM0pxUlV4ZmFXMWhaMlUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Bi296W5W2EvRWPntpS4tJEa4CyRzqNgTiz2cFpESKVzS4y5W0XoSxSMeFLrK3ru-oXk440AMTg745jNJW8F6rcYCMSHNRONbAN2BWt~ciNmyeQZ8CCRVFA0UMqm3IJz3socT8p-iVwSeu3F7V6hIs7zxjt9KXsNliaPKcj7dw-RebNyDCTz2xIeqla2j5Pb8SBevlTrzFyGRbBTzsdXo6FFWOZ8st1ZvHklVB2uOTTY-c5u42~UO3jTiwh~93HdX5Ouwb2tOWwwg4KTkrJlZKky9z1zrwFDj~wGMJ9hIIOxi-132pEc4wrHNbas4dusK4Lns0PohZlm-DCQ9qTjBqA__)
+![Navegando para Budgets no Billing Dashboard.](/images/pasted_file_xKrjEL_image.png)
 
-![Tela de criação de Budget na AWS.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459800_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9wYXN0ZWRfZmlsZV8xb3AwdzVfaW1hZ2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDBfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5d1lYTjBaV1JmWm1sc1pWOHhiM0F3ZHpWZmFXMWhaMlUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Rls~C3aqDgn~Q9hLTx-gK6drVNzTZbRjXssf-AWMSyLCAv~jBs0bnQeUQRD6gSg0vhHlj~IB3mTDPbVk61fNq2OxQkrBH2zXXDLJua-eoopofwuqgdtTzwCETadmkqqmezrb6CsRB1606yTu9H1GnGyR-DJKonMkNxmUn9s0ZE4dJWmvlH7M8JbUBPeSHN9Gg6vpeZ6JvrC7lJmjqmOwiXZzO-g3Z12FWWy~gfpiECFVwcu7mU4WtjFSsQ2Gnq8h-UmMeO~DIONboPUKy9da0hXvyoGoR4snmkIs59ZdeHUKICxw8hdUG4W7e3V6zZN2T-WN5USJIt0ma4bKyqmuDQ__)
+![Tela de criação de Budget na AWS.](/images/pasted_file_1op0w5_image.png)
 
 6.  No Billing Dashboard, ative o **Cost Explorer** para visualizar os custos.
 
@@ -82,7 +82,7 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
 3.  Complete a compra.
 4.  Após a compra, vá para **My Products > Domains** para confirmar que o domínio está ativo.
 
-![Tela de "My Products" na GoDaddy mostrando o domínio ativo.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459800_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL1lyajNNR04yUWxrUw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDBfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMWx5YWpOTlIwNHlVV3hyVXcucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=ZPvUCz4Z5FFpHzNXxUEgvNah7tTAbewTQUarS~NbW0dhxx39NtehZFdy5ae5F7EvziJj3Tv230BXtNGJTwWOJlG6wP3LVGalmZ34NkzVFSQaO835HPS2byNEEVx4Qgka5sHjt-RCQj4i0oT-rz17IFf9HcwrVNCNZuEp5ELKpeZ0IgGc9ylXtaa1Lf0Hpx2SIC~YSm3KBi9vCAlanHsLfEBoxLjDa3z11E6C4jKdeOQ3y3aJnx94BZbKdjmw6fr3F57uFrf-mS-6qXefAv-OXkrdZD8IslWjxNCGUXVlLcz~vo-33jstHDHz6ovYC~5dBPYs74K0RzxDArNi9A62qg__)
+![Tela de "My Products" na GoDaddy mostrando o domínio ativo.](/images/Yrj3MGN2QlkS.png)
 
 **Nota:** A configuração do DNS será feita na Etapa 5.
 
@@ -103,7 +103,7 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
     *   **HTTP** (porta 80) de `Anywhere` (0.0.0.0/0).
     *   **HTTPS** (porta 443) de `Anywhere` (0.0.0.0/0).
 
-![Regras de entrada para o Security Group na AWS.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459801_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL09pV0E4MmpUZzNRMA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDFfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMDlwVjBFNE1tcFVaek5STUEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=pZpSJiLtymes8Awb1WyLXAnPvZOIbiqp-SJrMxOakYdzaKxaEmAg8EC8e4tQprrk571gNBzhG49KyU5pc1HNS7vLDXF1QyHLhaTlSR6KAMG3us5bcXyDRrJ7wB4bpFcZnOB-q8xerjFzFBVe~i~qZnWcXnjxlLKZI6Jqw33M3fD~28zga7T3rj9POuwMyLbs2HJLEQzZApWW5QtBUHKGrWVrNS-5McrHMp~qKVTs44mjjZxwDAAhXFvRsU~2UYvuzvYOw~pWw8UzZF92KRoAdfSb~tv0YL0rrlNMTuqwgVC1EwIrh0~CZRelXyyID2LCsu1mmaRuN5ccC7biOcUBRg__)
+![Regras de entrada para o Security Group na AWS.](/images/OiWA82jTg3Q0.png)
 
 7.  **Armazenamento:** Mantenha o padrão de 8 GiB.
 8.  Clique em **Launch instance**.
@@ -133,7 +133,7 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
     sudo ufw --force enable
     ```
 
-![`sudo ufw status verbose` mostrando as regras ativas.](/home/ubuntu/upload/search_images/pPZYrtJOHX5I.png)
+![`sudo ufw status verbose` mostrando as regras ativas.](/images/ZLGHeIbVx6tn.png)
 
 4.  Crie o diretório do site e ajuste as permissões:
     ```bash
@@ -173,7 +173,7 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
     sudo systemctl reload nginx
     ```
 
-![`nginx -t` mostrando que a sintaxe está correta.](/home/ubuntu/upload/search_images/lc5f5ocYd9bl.png)
+![`nginx -t` mostrando que a sintaxe está correta.](/images/58kHMA5ZYP2G.png)
 
 Neste ponto, você já deve conseguir acessar `http://SEU-ELASTIC-IP` e ver a página "Hello World".
 
@@ -191,7 +191,7 @@ Neste ponto, você já deve conseguir acessar `http://SEU-ELASTIC-IP` e ver a p�
     *   Adicione um registro **A** com `Nome` **@** apontando para o seu `SEU-ELASTIC-IP`.
     *   Adicione um registro **CNAME** com `Nome` **www** apontando para **@**.
 
-![Tabela de registros DNS na GoDaddy.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459803_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL1BhZHFqTDI3aURBSg.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMUJoWkhGcVRESTNhVVJCU2cucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=GOQ6-vX~IouD5rBvz0ydWMmd-5sUASx3TnuvNFU~F0w3KLRkN~TgeT-uoNHYXq2-2iZkv4iw2hmSJoLGcW0cJn2EVKvWzuFxtm0tRtLsAnFt~rFigYpXSTfv9OzZB~grYZYyoa7TEsDIJ1AsXG6-4J5GAeeo-qMrmg3Wojwi29Gc8b1-qe6Nk9UIWshceZD~cHFficMnYeNHM2I6MQx94xMCUFPV83PmQnTwBZVznT5K8HhY3OUvfBh10jX6~dVfIe-3t9YrKeZe3avR3TQiA66B2Eax80O8CaL3BeQSgy5pXdh1zrbnvAxt7kIWQspJ0Hc5rd4bJS3xxHQZRwbUNA__)
+![Tabela de registros DNS na GoDaddy.](/images/PadqjL27iDAJ.png)
 
 3.  **Instale o Certbot para gerar o certificado HTTPS:**
     ```bash
@@ -204,7 +204,7 @@ Neste ponto, você já deve conseguir acessar `http://SEU-ELASTIC-IP` e ver a p�
     ```
     *Siga as instruções: aceite os termos, compartilhe seu e-mail e escolha a opção de redirecionar todo o tráfego HTTP para HTTPS.*
 
-![Certbot emitindo o certificado com sucesso.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459803_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL2lwakhOOWpLZEVFdw.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDNfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMmx3YWtoT09XcExaRVZGZHcuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=qfTwwzMT0QN7aZHPqTh1xK663bYAiVxxYtZxckBIIOR7WYzV9~Hb7I219PBX1et6Pw9zH~66mwkTg01mRHbRxWw1BPbOmLn0N1Pt3GgfO4T86JMWfoshfcfvuVZcSpmu7RREJEdBEqBrJtLHjhzO3kjmKdRRXlkbInUmbZ82FvRsTqLTdN7g79i~yfNFEBoSbBjFOOgERSiV1zFqsPFiXiPwp6HmTmDuPno6dpyK3q2vGtlfOmyQy30NU4dZydZob0ouhiaBirHoWk9CjD3bwVrPF3xA4oYHHKZ0MIJ0CUOlm4i4TvFl6Ssg8243NvjwLL3CPW4e0YC4cqnZSKGRHA__)
+![Certbot emitindo o certificado com sucesso.](/images/ipjHN9jKdEEw.jpg)
 
 5.  **Teste a renovação automática:**
     ```bash
@@ -213,7 +213,7 @@ Neste ponto, você já deve conseguir acessar `http://SEU-ELASTIC-IP` e ver a p�
 
 Agora, acesse `https://seu-dominio.site` no navegador. Você deverá ver o site com um cadeado verde, indicando que o HTTPS está funcionando!
 
-![Site final rodando com HTTPS válido.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459804_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL1lMT1FSQVVlUnZEZA.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDRfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMWxNVDFGU1FWVmxVblpFWkEuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Zy6Tnu7iFgQTOPfAh0Q0fh1mCYOBPedd-MOeWS8xDU1SZL2QhI7ea6B5tYC0dTgE1W2YggRLwT0Wncf2wtrxtYOsNLpW4Y~XGodj9muk0cBL0GlfxyR5bTUgcu5AAeaF3uXnLB9p3O598UbNu4vLm1CcD5WOS-NwC1oBx-AVjbvh8TNBErEcVhYOHQ~RB-UiXm2c1KgP61tY-vFieJNDKK9HY5IIl5gDrpBEVlZAn8g6dvZW5PwquK8fv7F9LVDO3hpks9dqF7pyU-qsHE171weOobfbN-Ei9HdRuA~dcFUiBpZCIL5ffHpQmkcInGF4RZziGctmUo8xllBnRwVjVQ__)
+![Site final rodando com HTTPS válido.](/images/YLOQRAUeRvDd.jpg)
 
 ---
 
@@ -286,9 +286,9 @@ Set up alerts to avoid unexpected costs. The free tier covers the `t2.micro` for
 4.  Under **Alert threshold**, add alerts for 80% ($8) and 100% ($10) of the budget, sent to your email.
 5.  Click **Create budget**.
 
-![Navigating to Budgets in the Billing Dashboard.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459804_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9wYXN0ZWRfZmlsZV94S3JqRUxfaW1hZ2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDRfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5d1lYTjBaV1JmWm1sc1pWOTRTM0pxUlV4ZmFXMWhaMlUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=tT1WrcuhcZCAbydmsKu~6~iwMoTx2XdnqHP3vOWAgVK360M4adQ5KFFMlcRBlghh-BCGhvo39kivfyph8QiAWiUeArBt~o86nXco04lSTiHU3r4m7z4rlJRGyME3XEnOqN-X~jrIqgLmGDyAMZ1pbIE8tyuvR5GC6KYEBfjUAY-rheBl-HWikxz8RB9332dtUWAJ3y0k1Hy1KRgR-eZww~1R~dNblhLrJIkiKrZWvuu9vpI-BQG~8dlGDWkEF4mk8FHGMrV-eSSLGVyKv1lDt09hqOWV4nCVSxUbVEdiEGcQfdN8JENpnqq~uzpplzAnkJslJVQnQ3MVbsxf-bu9Wg__)
+![Navigating to Budgets in the Billing Dashboard.](/images/pasted_file_xKrjEL_image.png)
 
-![AWS Budget creation screen.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459805_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9wYXN0ZWRfZmlsZV8xb3AwdzVfaW1hZ2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5d1lYTjBaV1JmWm1sc1pWOHhiM0F3ZHpWZmFXMWhaMlUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=cO1~XUfd56EAL4d4BdG6lE7p6pO0BnFSOi6QdyRp7Xxb-5-Y0-LkhhM4UGL8D0vpFGZIQ48H~SRswjhKwMNTMCTigh4lQ~JbyzWFfXEeK9NYDo2-uS1LTas-7lGzo-Q3eSNpNg9k1xni5NN8S9g9h4l-RxsJT~nWgg9FqkLw0Ka2lLU5vJQUE8OEdj2gTE0lUeKtU2fJK-zJL0zVKC6dlDHLq0a6PjP~X9bEkiIuOLM7IDM3n4F3Z9tH5kaZQQbMgOOwlDHgBCVL8KIY1F2kNiUekCpB7ioKJZCzLLtb40Vn5SgdvFRpgUMAeE39i03mWTYLM2np6Bk3x4RUWW8zFg__)
+![AWS Budget creation screen.](/images/pasted_file_1op0w5_image.png)
 
 6.  In the Billing Dashboard, enable **Cost Explorer** to visualize costs.
 
@@ -301,7 +301,7 @@ Set up alerts to avoid unexpected costs. The free tier covers the `t2.micro` for
 3.  Complete the purchase.
 4.  After purchase, go to **My Products > Domains** to confirm the domain is active.
 
-!["My Products" screen on GoDaddy showing the active domain.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459805_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL1lyajNNR04yUWxrUw.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMWx5YWpOTlIwNHlVV3hyVXcucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=P5iUVWCwbNcanFvJajAUxIpsL~ELdQEvYKCAbyOL3oa~DY4D3wXUtMBZCmrJKh~mk4vqgTWTtTD8lZeGRDkF~lNFWB6g6Ty85g1ViVayCrBNFz-kfhtLnTZz6XSR4zFiYvkqx79tK-mnmrFk5DFFQvqsjz~d~-pHBCYp~zq4pgia-K8BxZSP9FeUzAfU2bgiNZsio6uWIB-LtNG~LAL1fEGq90Biq2Us332zb7QPf22b0YyiNdaaMN3YdSAiPqDawwicuhGUUwCr4ipq8-iTk2Rq-g3UAra5POwiBj6I5DHniSfZKkzqKL8ibf74O6aAoly~ofZ4KrR7BQujZsbCuQ__)
+!["My Products" screen on GoDaddy showing the active domain.](/images/Yrj3MGN2QlkS.png)
 
 **Note:** DNS configuration will be done in Step 5.
 
@@ -322,7 +322,7 @@ Set up alerts to avoid unexpected costs. The free tier covers the `t2.micro` for
     *   **HTTP** (port 80) from `Anywhere` (0.0.0.0/0).
     *   **HTTPS** (port 443) from `Anywhere` (0.0.0.0/0).
 
-![Inbound rules for the Security Group in AWS.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459806_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL09pV0E4MmpUZzNRMA.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMDlwVjBFNE1tcFVaek5STUEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=elh4XvAn8qR44afYqMo9yTF6266MFfTcIn~hYU8h0Sc7AfFymLWpTOzt13kcO3Ug8HD-1GdlXAzyDL0VwzH1rXDJZETdl1oNYCl1~CELjtNudCGZqK3EJRtvUuXzcSYG7BuVc3jSslh4FtX9hSR56KiUHKNNNiz65qa5w668SA0tGFz3S8S79rTXD-mBcJkzhxkCyUNBVsrN0Xci1V4yFyCg71Z-UdUfPYIOOn4TNNJ1WUExPyg0Ry0Wa8cqkvIk1sAz00EPu8oR-yCKMdJSNJCwrMuPLlucWAscxxJm0qh9iCWQk6wsdhqy1JW2Gy3tsvPqjagNK-gXzHTqFScOFQ__)
+![Inbound rules for the Security Group in AWS.](/images/OiWA82jTg3Q0.png)
 
 7.  **Storage:** Keep the default 8 GiB.
 8.  Click **Launch instance**.
@@ -352,7 +352,7 @@ Set up alerts to avoid unexpected costs. The free tier covers the `t2.micro` for
     sudo ufw --force enable
     ```
 
-![`sudo ufw status verbose` showing active rules.](/home/ubuntu/upload/search_images/pPZYrtJOHX5I.png)
+![`sudo ufw status verbose` showing active rules.](/images/ZLGHeIbVx6tn.png)
 
 4.  Crie o diretório do site e ajuste as permissões:
     ```bash
@@ -392,7 +392,7 @@ Set up alerts to avoid unexpected costs. The free tier covers the `t2.micro` for
     sudo systemctl reload nginx
     ```
 
-![`nginx -t` showing the syntax is ok.](/home/ubuntu/upload/search_images/lc5f5ocYd9bl.png)
+![`nginx -t` showing the syntax is ok.](/images/58kHMA5ZYP2G.png)
 
 At this point, you should be able to access `http://YOUR-ELASTIC-IP` and see the "Hello World" page.
 
@@ -410,7 +410,7 @@ At this point, you should be able to access `http://YOUR-ELASTIC-IP` and see the
     *   Add an **A** record with `Name` **@** pointing to your `YOUR-ELASTIC-IP`.
     *   Add a **CNAME** record with `Name` **www** pointing to **@**.
 
-![DNS records table on GoDaddy.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459807_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL1BhZHFqTDI3aURBSg.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDdfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMUJoWkhGcVRESTNhVVJCU2cucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=mxDr1dew82HSTOXWsb1FjLJmoDfgzCVe7IXe66YaFis8bfpw1PfuaqYugq06hLrRAt6~sxHwgOYzIdsS9Isjme1RoXdmGfz9AuR0hApd8k0vWbMUMadwe0xogYj7AZDlXaMMTWcrruHQP9GLrFRzHX-B3tKIa9dwvYyewKOm-7pKN6LUFsc4ANIh8PbNhIDYPuYctzT6lh-O~ICeB3mix3ND-nOm4VX59ez3NXkNlpgB-UZ8SHbLgbrqJeCIpEywK9zfwo1~Er3K35V6gAz8C1bzBzUjjVUjYqEIUxSjrN-x68dzr95CcYVf6ML9Mijit5mS0kUEYSd2Y0xJMvrThQ__)
+![DNS records table on GoDaddy.](/images/PadqjL27iDAJ.png)
 
 3.  **Install Certbot to generate the HTTPS certificate:**
     ```bash
@@ -423,7 +423,7 @@ At this point, you should be able to access `http://YOUR-ELASTIC-IP` and see the
     ```
     *Follow the prompts: agree to the terms, share your email, and choose the option to redirect all HTTP traffic to HTTPS.*
 
-![Certbot successfully issuing the certificate.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459808_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL2lwakhOOWpLZEVFdw.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDhfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMmx3YWtoT09XcExaRVZGZHcuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Je3n7cR89n8fLfb3-sX03ZgycaOshfDV0ZEmCNk94SC4WASFlUVPgRxQdPl4a8dt7b6bNZo0POhPnBVSBOw5rVLfo9bsBgu-0MNgsra4HcWa4mHSc~6HxfTlTMeHHN6tcvkac41P1c3z-Az6E-0MNsUiXsvyztrx4A6AXKTQqNgXJA9WlCt~H69db8qoRGUWSCE5slP~0eqe6SWHXrN-YmIC3dlrROHdQyQGRCYjlCXDhqO~S3Ri73fHJxB-ybG1g1Km1mDztlL6w1HpjoafFfvdH4KKyCIZZeNfPvj~TNU3VOXGXFj67zLtKVhgTUodgn7tKD1Cy2z7lnmNgUNhjQ__)
+![Certbot successfully issuing the certificate.](/images/ipjHN9jKdEEw.jpg)
 
 5.  **Test automatic renewal:**
     ```bash
@@ -432,7 +432,7 @@ At this point, you should be able to access `http://YOUR-ELASTIC-IP` and see the
 
 Now, access `https://your-domain.site` in your browser. You should see the site with a green lock, indicating that HTTPS is working!
 
-![Final site running with a valid HTTPS certificate.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/VLMu1XklPF3o7AIPTaESuY-images_1763082459808_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL1lMT1FSQVVlUnZEZA.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L1ZMTXUxWGtsUEYzbzdBSVBUYUVTdVktaW1hZ2VzXzE3NjMwODI0NTk4MDhfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMWxNVDFGU1FWVmxVblpFWkEuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Z5QQZj6xTTBKLQcn2ku5M9WLhIqJR9tuIX-~XvoHNUdviUrpA8d1jAOvqhKGnKtDgYoo4-janUywZ-UJMue78SRHJb4Kks45sHc1EW~Tln4AP1WqPkQpUGVlnfYLfwU0h2oVxaEJtR8Pu4H~~aRgBmOjubH65AXwc58eYUFquGAkrwU0mhjcmc1hQEsvYcp5hbX8QBwC9EYTZik7s-O-5fKi0W5c9Eq39ddLkEhSnQJDOKf7LXyHwVELM61tajX7i4ZXfRTDdSFe2obIEsCJaIyiDwJEpN6QykKUN4Q~IYDPgNilDCiJwAJbAbG~cXSNRgf1Kr9ClAg58TNl6CnAKA__)
+![Final site running with a valid HTTPS certificate.](/images/YLOQRAUeRvDd.jpg)
 
 ---
 
