@@ -67,7 +67,8 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
 4.  Em **Alert threshold**, adicione alertas para 80% ($8) e 100% ($10) do orçamento, enviando para seu e-mail.
 5.  Clique em **Create budget**.
 
-![Tela de criação de Budget na AWS.](https://private-us-east-1.manuscdn.com/sessionFile/GpL4Ir8eIbHpfQQrc5UzyO/sandbox/tw1N5aCkTCEjDUBr44umWn-images_1762823895776_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9zZWFyY2hfaW1hZ2VzL0FiZmV0V3lURTZUTQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvR3BMNElyOGVJYkhwZlFRcmM1VXp5Ty9zYW5kYm94L3R3MU41YUNrVENFakRVQnI0NHVtV24taW1hZ2VzXzE3NjI4MjM4OTU3NzZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5elpXRnlZMmhmYVcxaFoyVnpMMEZpWm1WMFYzbFVSVFpVVFEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=ADg5pPsK~Rg4JdR5yKBH1eLOqWmRjPBpcghJRb5BhlCBVuHvuR8vKLs1VBMw5ijGD6NFh74CDMfZd8S~yuWx-8Fw0kZsNXkcWxUjA~ScRgaTU0aZa752xkNMr1K2UoKX50tAulH-rs25AVDrKcWc1YZer82vBvRsH8VfDup2sQYX1NcfJVvZ7K1eRYrBhoUZpmql94uY92Xm-hEtD2rsM6RDDM2edNETIHH7i7dWeJBHDDQuTuomzEHsXU7JDjNIzrq33INhQroN~Syhb7djRU9aahk6dPms~aCQiEhzsE0FVNcc378jIVLqrbKexGClJg8T88kcPQodhaH2X7yWYw__)
+![Tela de criação de Budget na AWS.](blob:https://web.whatsapp.com/51d30157-f087-4c1c-be1d-3438e3f8fb88)
+![Tela de criação de Budget na AWS.](blob:https://web.whatsapp.com/ac364423-9337-43f7-a86f-9fcc7abc3d63)
 
 6.  No Billing Dashboard, ative o **Cost Explorer** para visualizar os custos.
 
