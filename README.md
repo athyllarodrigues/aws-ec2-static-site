@@ -66,10 +66,10 @@ Configure alertas para evitar custos inesperados. O tier free cobre a `t2.micro`
 3.  Selecione **Cost budget**, defina o nome "Meu Budget Mensal", período "Monthly" e um limite (ex: $10 USD).
 4.  Em **Alert threshold**, adicione alertas para 80% ($8) e 100% ($10) do orçamento, enviando para seu e-mail.
 5.  Clique em **Create budget**.
-
+![Tela de criação de Budget na AWS.](/images/3e6e0363-8a41-469d-a1f8-bba0b2dfb64d.jpg)
 ![Tela de criação de Budget na AWS.](/images/pasted_file_1op0w5_image.png)
 
-6.  No Billing Dashboard, ative o **Cost Explorer** para visualizar os custos.
+7.  No Billing Dashboard, ative o **Cost Explorer** para visualizar os custos.
 
 ---
 
@@ -284,8 +284,7 @@ Set up alerts to avoid unexpected costs. The free tier covers the `t2.micro` for
 4.  Under **Alert threshold**, add alerts for 80% ($8) and 100% ($10) of the budget, sent to your email.
 5.  Click **Create budget**.
 
-![Navigating to Budgets in the Billing Dashboard.](/images/pasted_file_xKrjEL_image.png)
-
+![Navigating to Budgets in the Billing Dashboard.](/images/3e6e0363-8a41-469d-a1f8-bba0b2dfb64d.jpg)
 ![AWS Budget creation screen.](/images/pasted_file_1op0w5_image.png)
 
 6.  In the Billing Dashboard, enable **Cost Explorer** to visualize costs.
